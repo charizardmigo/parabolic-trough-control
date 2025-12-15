@@ -80,7 +80,7 @@ parabolic-trough-control/
 
 ---
 
-## 🏛️ System Architecture
+## System Architecture
 
 ```
                     ┌─────────────────────────────────────┐
@@ -358,7 +358,7 @@ PI feedback compensates for model uncertainty, demonstrating robustness.
 
 ---
 
-## ⚙️ Parameters
+## Parameters
 
 ### Plant Parameters
 
