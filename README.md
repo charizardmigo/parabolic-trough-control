@@ -12,6 +12,7 @@ A robust temperature control system for parabolic trough solar collectors, combi
 
 - [Overview](#overview)
 - [Key Features](#key-features)
+- [Project Structure](#project-structure)
 - [System Architecture](#system-architecture)
 - [Technical Approach](#technical-approach)
 - [Requirements](#requirements)
@@ -59,6 +60,23 @@ The complete system is implemented in MATLAB/Simulink with proper actuator satur
 - **Robustness Validation**: Tested under `±20%` parameter variations
 - **Modular Simulink Design**: Clean subsystem structure (Plant, Feedforward, PI, Saturation)
 - **IMC-Based Tuning**: Systematic controller gain design using Internal Model Control method
+
+---
+
+## 🗂 Project Structure
+
+```text
+parabolic-trough-control/
+├── models/
+│   └── ParabolicTrough.slx          # Main Simulink model 
+├── parameters/
+│   └── ParabolicTrough.mat          # Model and controller parameters 
+├── docs/
+│   └── ParabolicTrough.pdf          # Technical report 
+├── README.md                       
+├── LICENSE                         
+└── .gitignore                       
+```
 
 ---
 
@@ -248,7 +266,7 @@ sim('models/ParabolicTrough.slx')
 - **Scope_T**: Outlet temperature `T(t)` vs. Setpoint `Tsp`  
 - **Scope_q**: Flow components (`q_ff`, `q_fb`, `q_total`)
 
-Compare your results to the figures in `docs/ParabolicTrough_TechnicalNote.pdf`.
+Compare your results to the figures in `docs/ParabolicTrough.pdf`.
 
 ---
 
@@ -407,7 +425,7 @@ Potential extensions to enhance the system:
 
 Detailed technical documentation is available in:
 
-**[`docs/ParabolicTrough_TechnicalNote.pdf`](docs/ParabolicTrough_TechnicalNote.pdf)**
+**[`docs/ParabolicTrough.pdf`](docs/ParabolicTrough.pdf)**
 
 This technical note covers:
 - Complete mathematical derivation of the plant model
