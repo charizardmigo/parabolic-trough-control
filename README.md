@@ -19,7 +19,7 @@ A robust temperature control system for parabolic trough solar collectors, combi
 - [Installation and Usage](#-installation-and-usage)
 - [Model Structure](#-model-structure)
 - [Results](#-results)
-- [Parameters](#-parameters)
+- [Parameters](#--parameters)
 - [Future Work](#-future-work)
 - [Documentation](#-documentation)
 - [License](#-license)
