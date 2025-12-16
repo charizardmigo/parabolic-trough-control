@@ -425,7 +425,7 @@ Potential extensions to enhance the system:
 
 Detailed technical documentation is available in:
 
-**[`docs/ParabolicTrough.pdf`](docs/ParabolicTrough.pdf)**
+**[`docs/ParabolicTrough.pdf`](docs/ParabolicTrough.pdf)** (To be added)
 
 This technical note covers:
 - Complete mathematical derivation of the plant model
