@@ -266,7 +266,7 @@ sim('models/ParabolicTrough.slx')
 - **Scope_T**: Outlet temperature `T(t)` vs. Setpoint `Tsp`  
 - **Scope_q**: Flow components (`q_ff`, `q_fb`, `q_total`)
 
-Compare your results to the figures in `docs/ParabolicTrough.pdf`.
+Compare your results to the figures in `docs/ParabolicTrough.pdf` (To be added).
 
 ---
 
