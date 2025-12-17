@@ -435,7 +435,7 @@ This technical note covers:
 - Comprehensive simulation results with analysis
 - Robustness validation under parameter uncertainty
 
---- 
+---
 
 ## 📄 License
 
