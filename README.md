@@ -451,7 +451,7 @@ You are free to use, modify, and distribute this code for educational and commer
 Elektro- und Informationstechnik (Electrical and Computer Engineering)  
 Hochschule Anhalt (Anhalt University of Applied Sciences)
 
-📧 **Email:** fomechepriestley7@gmail.com  
+📧 **Email:** fomechepriestly7@gmail.com  
 🔗 **LInkedIn:** [Priestley Fomeche](https://linkedin.com/in/priestley-fomeche)  
 💻 **GitHub:** [@charizardmigo](https://github.com/charizardmigo)
 
