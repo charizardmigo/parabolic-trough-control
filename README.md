@@ -62,7 +62,7 @@ The complete system is implemented in MATLAB/Simulink with proper actuator satur
 - **IMC-Based Tuning**: Systematic controller gain design using Internal Model Control method
 
 ---
- 
+
 ## 🗂 Project Structure
 
 ```text
