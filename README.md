@@ -49,7 +49,7 @@ This project implements a hybrid control strategy that combines:
 The complete system is implemented in MATLAB/Simulink with proper actuator saturation and anti-windup protection.
   
 ---
-       
+
 ## ✨ Key Features
 
 - **Nonlinear Plant Model**: Energy balance formulation for absorber tube dynamics
