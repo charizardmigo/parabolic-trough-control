@@ -47,7 +47,7 @@ This project implements a hybrid control strategy that combines:
 - **PI feedback control:** Corrects residual errors and ensures robustness to parameter uncertainty
 
 The complete system is implemented in MATLAB/Simulink with proper actuator saturation and anti-windup protection.
-     
+       
 ---
 
 ## ✨ Key Features
