@@ -45,7 +45,7 @@ The system faces two major uncontrollable disturbances:
 This project implements a hybrid control strategy that combines:
 - **Feedforward control:** Anticipates disturbances using a physics-based model
 - **PI feedback control:** Corrects residual errors and ensures robustness to parameter uncertainty
-
+ 
 The complete system is implemented in MATLAB/Simulink with proper actuator saturation and anti-windup protection.
        
 ---
